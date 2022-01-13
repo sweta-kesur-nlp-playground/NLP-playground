@@ -1,5 +1,5 @@
 # NLP-playground 🎮
-A curated list of my NLP plays. Feel free to play in my NLP playground and a new play.
+A curated list of my NLP plays. Feel free to play in my NLP playground and you can also add a new play in this list.
 
 ## Few plays added are:
 
